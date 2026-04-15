@@ -10,11 +10,11 @@ Estrutura de pastas organizadas
 🚀 Como rodar o projeto
 1. Instale as responsabilidades
 npm install
-# ou
+ou
 yarn
 2. Rodamos o projeto em modo desenvolvimento
 npm run dev
-# ou
+ou
 yarn dev
 Acesse http://localhost:5173no navegador.
 
