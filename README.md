@@ -16,7 +16,7 @@ yarn
 npm run dev
 ou
 yarn dev
-Acesse http://localhost:5173no navegador.
+Acesse http://localhost:5173 no navegador.
 
 🎯 Exercício – Galeria de Imagens
 Objetivo
